@@ -1,0 +1,21 @@
+{
+  "name": "golang-oceanic-theme",
+  "displayName": "GoLang Oceanic Theme",
+  "description": "GoLang Oceanic Color Theme for those who prefer who light theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "GoLang Oceanic Theme",
+        "uiTheme": "vs",
+        "path": "./themes/GoLang Oceanic Theme-color-theme.json"
+      }
+    ]
+  }
+}
