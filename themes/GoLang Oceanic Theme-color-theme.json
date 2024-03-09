@@ -1123,7 +1123,7 @@
 				"keyword.storage.modifier"
 			],
 			"settings": {
-				"foreground": "#00AAAA"
+				"foreground": "#FC7295"
 			}
 		},
 		{
@@ -1157,7 +1157,7 @@
 				"string.quoted.double.html source.css"
 			],
 			"settings": {
-				"foreground": "#18AC31"
+				"foreground": "#1c9d89"
 			}
 		},
 		{
@@ -1238,7 +1238,7 @@
 				"entity.source.cmake"
 			],
 			"settings": {
-				"foreground": "#EC4476"
+				"foreground": "#4E89A7"
 			}
 		},
 		{

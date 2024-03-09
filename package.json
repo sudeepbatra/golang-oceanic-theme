@@ -2,6 +2,7 @@
   "name": "golang-oceanic-theme",
   "displayName": "GoLang Oceanic Theme",
   "description": "GoLang Oceanic Color Theme for those who prefer who light theme",
+  "publisher": "stoxbroker",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.87.0"
