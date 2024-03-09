@@ -1205,24 +1205,8 @@
 				"meta.group.simple.subexpression.powershell meta.scriptblock.powershell storage.type.powershell"
 			],
 			"settings": {
-				// "foreground": "#F05149"
-				// "foreground": "#F2634B"
-				// "foreground": "#C13A37"
-				// "foreground": "#EF5242"
-				// "foreground": "#752B50" // not for this
-				// "foreground": "#BE3F79" // not for this
-				// "foreground": "#5E193C" // not for this
-				// "foreground": "#792C50" // not for this
-				// "foreground": "#8983A7" // not for this
-				// "foreground": "#923058" //not for this
-				// "foreground": "#4C4162" //not for this
-				// "foreground": "#9760A9" //Good
-				// "foreground": "#A76AB7" //Good
-				// "foreground": "#955FA3"
-				// "foreground": "#A565B4" //Very Good
-				// "foreground": "#A45EB3"
-				"foreground": "#9567A6" //VG
-				// "foreground": "#C885CC"
+				"foreground": "#9567A6"
+			}
 		},
 		{
 			"scope": [
