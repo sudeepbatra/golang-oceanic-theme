@@ -3,7 +3,7 @@
   "displayName": "GoLang Oceanic Theme",
   "description": "GoLang Oceanic Color Theme for those who prefer who light theme",
   "publisher": "stoxbroker",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "icon": "icons/icon.png",
   "engines": {
     "vscode": "^1.87.0"
